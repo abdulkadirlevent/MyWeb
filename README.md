@@ -1,2 +1,2 @@
 # MyWeb
-MyWeb templates
+MyWeb
